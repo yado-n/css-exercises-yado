@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.firstc{
+background-color: black;
+color: wheat;
+}
+
+.secondc{
+background-color: yellow;
+}
+
+.firstc,
+.secondc{
+    font-size: 28px;
+    font-family: helvetica,"Times New Roman",sans-serif;
+}
