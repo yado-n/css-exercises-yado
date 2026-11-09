@@ -16,22 +16,23 @@ body {
   background: dodgerblue;
 }
 .title{
-  font-size: 16px;
   padding: 8px;
+  font-size: 16px;
   margin-bottom: 8px;
 }
 .content{
-padding: 16px 8px;
-margin-bottom: 9px;
+  padding: 8px;
+  margin-bottom: 8px;
 }
 
 .button-container{
   text-align: center;
   padding: 8px;
 }
+
 button {
   background: white;
-  display:block;
+  display: block;
   padding: 8px 24px;
-  margin: 0px auto;
+  margin: 0 auto;
 }
