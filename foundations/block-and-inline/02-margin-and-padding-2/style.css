@@ -6,7 +6,7 @@ body {
 .card {
   width: 400px;
   background: white;
-  margin: 16px auto;
+  margin: 30px auto;
   padding: 8px;
 }
 
@@ -35,4 +35,37 @@ button {
   display: block;
   padding: 8px 24px;
   margin: 0 auto;
+}
+.fam1{
+box-sizing: border-box;
+  width: 800px;
+  height: 300px;
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  margin: 0 auto;
+}
+.highlight {
+  background-color: yellow;
+  padding: 10px;
+  margin: 4px;
+  border: 2px solid red;
+}
+.box{
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  border: 10px solid blue;
+  margin:10px;
+  padding: 5px;
+  background-color: red;
+}
+.box2 {
+  display: inline-block;
+  width: 150px;
+  height: 100px;
+  background-color: lightblue;
+  padding: 10px;
+  margin: 10px;
 }
